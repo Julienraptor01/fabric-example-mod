@@ -1,6 +1,6 @@
-package net.fabricmc.example.mixin;
+package me.julienraptor01.julienraptor01_fabric_example_mod.mixin;
 
-import net.fabricmc.example.ExampleMod;
+import me.julienraptor01.julienraptor01_fabric_example_mod.ExampleMod;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
